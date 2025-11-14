@@ -1,0 +1,9 @@
+{
+    "userAgent": "Mozilla/5.0",
+    "timeoutSeconds": 10,
+    "export": {
+        "json": true,
+        "csv": true,
+        "excel": true
+    }
+}
